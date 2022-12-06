@@ -45,7 +45,7 @@ class ChooserActivity : AppCompatActivity() {
                 val len: Int? = inputStream?.read(buffer)
                 if (len != -1) {
                     len?.let { outputStream?.write(buffer, 0, it) }
-                }
+                } else break;
             }
             return out
         } catch (e: Exception) {
