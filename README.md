@@ -9,7 +9,7 @@
 <a href="https://github.com/hax0rgb/InsecureShop/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
 <a href="https://github.com/hax0rgb/InsecureShop/releases"><img src="https://img.shields.io/github/v/release/hax0rgb/InsecureShop"></a>
 </p>
-
+ 
 <p align="center">
   <a href="#%EF%B8%8F-usage">Usage</a> •
   <a href="#-note">Note</a> •
