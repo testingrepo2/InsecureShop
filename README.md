@@ -20,7 +20,7 @@
 
 InsecureShop is an Android application that is designed to be intentionally vulnerable. The application serves as a platform to test your Android pentesting skills. The vulnerabilities present in this app are real and have been found during mobile pentests.
 
-## ⚙️ Usage
+## ⚙️ Usage 
 
 You can compile the source code in Android Studio or simply download the APK file from [here](https://github.com/hax0rgb/InsecureShop/releases)
 
